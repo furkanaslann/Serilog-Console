@@ -1,0 +1,50 @@
+2023-08-26 16:43:06.802 +03:00 [INF] Hi, coder!
+2023-08-26 16:59:20.471 +03:00 [INF] {DateTime.Now} Hi, coder!
+2023-08-26 16:59:33.183 +03:00 [INF] 26.08.2023 16:59:33 Hi, coder!
+2023-08-26 17:00:11.591 +03:00 [INF] {Time} Enter program
+2023-08-26 17:00:20.722 +03:00 [INF] 26.08.2023 17:00:20 Enter program
+2023-08-26 17:00:24.843 +03:00 [INF] 26.08.2023 17:00:24 User enter number: 18
+2023-08-26 17:00:28.746 +03:00 [INF] 26.08.2023 17:00:28User enter number: 98
+2023-08-26 17:00:28.747 +03:00 [INF] Create result
+2023-08-26 17:00:28.748 +03:00 [INF] Exit program
+2023-08-26 17:01:21.802 +03:00 [INF] 26.08.2023 17:01:21 Enter program
+2023-08-26 17:01:24.091 +03:00 [INF] 26.08.2023 17:01:24 User enter number: 18
+2023-08-26 17:01:24.995 +03:00 [INF] 26.08.2023 17:01:24 User enter number: 69
+2023-08-26 17:01:24.997 +03:00 [INF] 26.08.2023 17:01:24 Create result
+2023-08-26 17:01:24.998 +03:00 [INF] 26.08.2023 17:01:24 Exit program
+2023-08-27 23:23:25.873 +03:00 [INF] 27.08.2023 23:23:25 Enter program
+2023-08-27 23:27:57.135 +03:00 [INF] 27.08.2023 23:27:57 User has logged into the system!
+2023-08-27 23:27:59.343 +03:00 [INF] 27.08.2023 23:27:59 User entered number: 56
+2023-08-27 23:28:00.797 +03:00 [INF] 27.08.2023 23:28:00 User entered number: 15
+2023-08-27 23:28:00.798 +03:00 [INF] 27.08.2023 23:28:00 Result has been created
+2023-08-27 23:28:00.800 +03:00 [INF] 27.08.2023 23:28:00 User logged out of the system!
+2023-08-27 23:51:36.283 +03:00 [INF] 27.08.2023 23:51:36 User has logged into the system!
+2023-08-28 00:14:53.568 +03:00 [INF] 28.08.2023 00:14:53 Server port number is locked.
+2023-08-28 00:15:09.904 +03:00 [INF] 28.08.2023 00:15:09 User made choose!
+2023-08-28 00:15:09.919 +03:00 [INF] 28.08.2023 00:15:09 Ip address to identify
+2023-08-28 00:15:09.928 +03:00 [INF] 28.08.2023 00:15:09 Socket to identify
+2023-08-28 00:15:09.930 +03:00 [INF] 28.08.2023 00:15:09 Connected Endpoint to Socket
+2023-08-28 00:15:09.931 +03:00 [INF] 28.08.2023 00:15:09 Listen to port number
+2023-08-28 00:15:12.120 +03:00 [INF] 28.08.2023 00:15:12 Accepted message coming from Client
+2023-08-28 00:15:12.121 +03:00 [INF] 28.08.2023 00:15:12 buffer to identify
+2023-08-28 00:15:12.122 +03:00 [INF] 28.08.2023 00:15:12 Pulled information from socket up to Array.
+2023-08-28 00:15:12.122 +03:00 [INF] 28.08.2023 00:15:12 Second buffer to identify
+2023-08-28 00:15:12.122 +03:00 [INF] 28.08.2023 00:15:12 Copy function is work
+2023-08-28 00:15:12.123 +03:00 [INF] 28.08.2023 00:15:12 Convert message to string
+2023-08-28 00:15:12.123 +03:00 [INF] 28.08.2023 00:15:12 Send received message to the client
+2023-08-28 00:19:45.690 +03:00 [INF] 28.08.2023 00:19:45 Server port number is locked.
+2023-08-28 00:20:21.487 +03:00 [INF] 28.08.2023 00:20:21 Choice has been made!
+2023-08-28 00:20:21.488 +03:00 [INF] 28.08.2023 00:20:21 Server started to work!
+2023-08-28 00:20:21.497 +03:00 [INF] 28.08.2023 00:20:21 Ip address to identify
+2023-08-28 00:20:21.505 +03:00 [INF] 28.08.2023 00:20:21 Socket to identify
+2023-08-28 00:20:21.507 +03:00 [INF] 28.08.2023 00:20:21 Connected Endpoint to Socket
+2023-08-28 00:20:21.507 +03:00 [INF] 28.08.2023 00:20:21 Listen to port number
+2023-08-28 00:20:27.451 +03:00 [INF] 28.08.2023 00:20:27 Accepted message coming from Client
+2023-08-28 00:20:27.451 +03:00 [INF] 28.08.2023 00:20:27 buffer to identify
+2023-08-28 00:20:27.452 +03:00 [INF] 28.08.2023 00:20:27 Pulled information from socket up to Array.
+2023-08-28 00:20:27.453 +03:00 [INF] 28.08.2023 00:20:27 Second buffer to identify
+2023-08-28 00:20:27.453 +03:00 [INF] 28.08.2023 00:20:27 Copy function is work
+2023-08-28 00:20:27.453 +03:00 [INF] 28.08.2023 00:20:27 Convert message to string
+2023-08-28 00:20:27.454 +03:00 [INF] 28.08.2023 00:20:27 Send received message to the client
+2023-08-28 00:21:54.904 +03:00 [INF] 27.08.2023 21:21:54 Server port number is locked.
+2023-08-28 00:22:10.330 +03:00 [INF] 28.08.2023 00:22:10 Server port number is locked.
