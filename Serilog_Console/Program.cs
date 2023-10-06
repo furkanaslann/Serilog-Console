@@ -7,22 +7,32 @@ using System.IO;
 using System.Net.Sockets;
 using System.Net;
 using System.Text;
+using System.Data.SqlClient;
+using Microsoft.Extensions.Hosting;
+using System.Configuration;
+using Serilog.Sinks.MSSqlServer;
+using Microsoft.Data.SqlClient;
 
-internal class Program
+public class Program
 {
+
     static void Main(string[] args)
     {
-        IConfigurationRoot configuration = new ConfigurationBuilder()
+
+        var configuration = new ConfigurationBuilder()
             .SetBasePath(Directory.GetCurrentDirectory())
-            .AddJsonFile("appsettings.json", optional:true, reloadOnChange:true)
+            .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
             .Build();
 
-        Logger logger = new LoggerConfiguration()
+        ILogger logger = new LoggerConfiguration()
             .WriteTo.Console()
-            .WriteTo.File("log.txt")
-            .MinimumLevel.Information()
+            .WriteTo.File("Logs/log.txt")
             .CreateLogger();
 
+        //string sqlconnection = "Data Source=DESKTOP-FT3ECCO;Initial Catalog=FurkanSerilogDB;Integrated Security=True";
+        logger.Information($"{DateTime.Now} System is connection database");
+
+        // *Socket Programming Start*
         const int ServerPortNmb = 51465;
         logger.Information($"{DateTime.Now} Server port number is locked.");
 
@@ -90,7 +100,6 @@ internal class Program
 
 
 
-
         void Server()
         {
             // Create a Socket
@@ -125,7 +134,9 @@ internal class Program
             logger.Information($"{DateTime.Now} Send received message to the client");
             Console.ReadLine();
         }
+        // *Socket Programming Finish*
 
         logger.Information($"{DateTime.Now} User logged out of the system!");
+
     }
 }

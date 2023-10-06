@@ -1,0 +1,111 @@
+2023-09-04 17:23:13.174 +03:00 [INF] 4.09.2023 17:23:13 Server port number is locked.
+2023-09-04 17:23:52.459 +03:00 [INF] 4.09.2023 17:23:52 Choice has been made!
+2023-09-04 17:23:52.460 +03:00 [INF] 4.09.2023 17:23:52 Server started to work!
+2023-09-04 17:23:52.497 +03:00 [INF] 4.09.2023 17:23:52 Ip address to identify
+2023-09-04 17:23:52.500 +03:00 [INF] 4.09.2023 17:23:52 Socket to identify
+2023-09-04 17:23:52.501 +03:00 [INF] 4.09.2023 17:23:52 Connected Endpoint to Socket
+2023-09-04 17:23:52.502 +03:00 [INF] 4.09.2023 17:23:52 Listen to port number
+2023-09-04 17:23:55.424 +03:00 [INF] 4.09.2023 17:23:55 Accepted message coming from Client
+2023-09-04 17:23:55.425 +03:00 [INF] 4.09.2023 17:23:55 buffer to identify
+2023-09-04 17:23:55.426 +03:00 [INF] 4.09.2023 17:23:55 Pulled information from socket up to Array.
+2023-09-04 17:23:55.426 +03:00 [INF] 4.09.2023 17:23:55 Second buffer to identify
+2023-09-04 17:23:55.427 +03:00 [INF] 4.09.2023 17:23:55 Copy function is work
+2023-09-04 17:23:55.427 +03:00 [INF] 4.09.2023 17:23:55 Convert message to string
+2023-09-04 17:23:55.428 +03:00 [INF] 4.09.2023 17:23:55 Send received message to the client
+2023-09-04 17:26:12.688 +03:00 [INF] 4.09.2023 17:26:12 Server port number is locked.
+2023-09-04 17:26:15.023 +03:00 [INF] 4.09.2023 17:26:15 Choice has been made!
+2023-09-04 17:26:15.024 +03:00 [WRN] 4.09.2023 17:26:15 Unexpected input!
+2023-09-04 17:26:15.025 +03:00 [INF] 4.09.2023 17:26:15 User logged out of the system!
+2023-09-04 17:27:08.101 +03:00 [INF] 4.09.2023 17:27:08 Server port number is locked.
+2023-09-04 17:27:09.612 +03:00 [INF] 4.09.2023 17:27:09 Choice has been made!
+2023-09-04 17:27:09.613 +03:00 [INF] 4.09.2023 17:27:09 Server started to work!
+2023-09-04 17:27:09.624 +03:00 [INF] 4.09.2023 17:27:09 Ip address to identify
+2023-09-04 17:27:09.626 +03:00 [INF] 4.09.2023 17:27:09 Socket to identify
+2023-09-04 17:27:09.628 +03:00 [INF] 4.09.2023 17:27:09 Connected Endpoint to Socket
+2023-09-04 17:27:09.629 +03:00 [INF] 4.09.2023 17:27:09 Listen to port number
+2023-09-04 17:31:29.276 +03:00 [INF] 4.09.2023 17:31:29 Server port number is locked.
+2023-09-04 17:35:57.562 +03:00 [INF] 4.09.2023 17:35:57 Server port number is locked.
+2023-09-04 17:35:58.683 +03:00 [INF] 4.09.2023 17:35:58 Choice has been made!
+2023-09-04 17:35:58.684 +03:00 [WRN] 4.09.2023 17:35:58 Unexpected input!
+2023-09-04 17:35:58.684 +03:00 [INF] 4.09.2023 17:35:58 User logged out of the system!
+2023-09-04 17:36:28.951 +03:00 [INF] 4.09.2023 17:36:28 Server port number is locked.
+2023-09-04 17:36:29.260 +03:00 [INF] 4.09.2023 17:36:29 Choice has been made!
+2023-09-04 17:36:29.261 +03:00 [WRN] 4.09.2023 17:36:29 Unexpected input!
+2023-09-04 17:36:29.261 +03:00 [INF] 4.09.2023 17:36:29 User logged out of the system!
+2023-09-04 17:37:34.975 +03:00 [INF] 4.09.2023 17:37:34 System is connection database
+2023-09-04 17:37:35.113 +03:00 [INF] 4.09.2023 17:37:35 System is disconnection database
+2023-09-04 17:37:35.120 +03:00 [INF] 4.09.2023 17:37:35 Server port number is locked.
+2023-09-04 17:37:36.626 +03:00 [INF] 4.09.2023 17:37:36 Choice has been made!
+2023-09-04 17:37:36.628 +03:00 [WRN] 4.09.2023 17:37:36 Unexpected input!
+2023-09-04 17:37:36.628 +03:00 [INF] 4.09.2023 17:37:36 User logged out of the system!
+2023-09-04 17:38:51.127 +03:00 [INF] 4.09.2023 17:38:51 System is connection database
+2023-09-04 17:38:51.268 +03:00 [INF] 4.09.2023 17:38:51 System is disconnection database
+2023-09-04 17:38:51.274 +03:00 [INF] 4.09.2023 17:38:51 Server port number is locked.
+2023-09-04 17:50:06.431 +03:00 [INF] 4.09.2023 17:50:06 System is connection database
+2023-09-04 17:50:06.450 +03:00 [INF] 4.09.2023 17:50:06 Server port number is locked.
+2023-09-04 17:50:07.500 +03:00 [INF] 4.09.2023 17:50:07 Choice has been made!
+2023-09-04 17:50:07.501 +03:00 [INF] 4.09.2023 17:50:07 Server started to work!
+2023-09-04 17:50:07.510 +03:00 [INF] 4.09.2023 17:50:07 Ip address to identify
+2023-09-04 17:50:07.513 +03:00 [INF] 4.09.2023 17:50:07 Socket to identify
+2023-09-04 17:50:07.514 +03:00 [INF] 4.09.2023 17:50:07 Connected Endpoint to Socket
+2023-09-04 17:50:07.514 +03:00 [INF] 4.09.2023 17:50:07 Listen to port number
+2023-09-04 17:50:12.256 +03:00 [INF] 4.09.2023 17:50:12 System is connection database
+2023-09-04 17:50:12.275 +03:00 [INF] 4.09.2023 17:50:12 Server port number is locked.
+2023-09-04 17:50:13.093 +03:00 [INF] 4.09.2023 17:50:13 Choice has been made!
+2023-09-04 17:50:13.095 +03:00 [WRN] 4.09.2023 17:50:13 Unexpected input!
+2023-09-04 17:50:13.096 +03:00 [INF] 4.09.2023 17:50:13 User logged out of the system!
+2023-09-04 17:52:21.700 +03:00 [INF] 4.09.2023 17:52:21 System is connection database
+2023-09-04 17:52:21.718 +03:00 [INF] 4.09.2023 17:52:21 Server port number is locked.
+2023-09-04 17:52:29.378 +03:00 [INF] 4.09.2023 17:52:29 Choice has been made!
+2023-09-04 17:52:29.380 +03:00 [WRN] 4.09.2023 17:52:29 Unexpected input!
+2023-09-04 17:52:29.380 +03:00 [INF] 4.09.2023 17:52:29 User logged out of the system!
+2023-09-04 17:52:49.307 +03:00 [INF] 4.09.2023 17:52:49 System is connection database
+2023-09-04 17:52:49.324 +03:00 [INF] 4.09.2023 17:52:49 Server port number is locked.
+2023-09-04 17:52:50.153 +03:00 [INF] 4.09.2023 17:52:50 Choice has been made!
+2023-09-04 17:52:50.154 +03:00 [WRN] 4.09.2023 17:52:50 Unexpected input!
+2023-09-04 17:52:50.154 +03:00 [INF] 4.09.2023 17:52:50 User logged out of the system!
+2023-09-06 01:20:47.465 +03:00 [INF] 6.09.2023 01:20:47 System is connection database
+2023-09-06 01:20:47.480 +03:00 [INF] 6.09.2023 01:20:47 Server port number is locked.
+2023-09-06 01:21:10.347 +03:00 [INF] 6.09.2023 01:21:10 Choice has been made!
+2023-09-06 01:21:10.348 +03:00 [INF] 6.09.2023 01:21:10 Server started to work!
+2023-09-06 01:21:10.377 +03:00 [INF] 6.09.2023 01:21:10 Ip address to identify
+2023-09-06 01:21:10.381 +03:00 [INF] 6.09.2023 01:21:10 Socket to identify
+2023-09-06 01:21:10.382 +03:00 [INF] 6.09.2023 01:21:10 Connected Endpoint to Socket
+2023-09-06 01:21:10.383 +03:00 [INF] 6.09.2023 01:21:10 Listen to port number
+2023-09-06 01:21:12.717 +03:00 [INF] 6.09.2023 01:21:12 Accepted message coming from Client
+2023-09-06 01:21:12.717 +03:00 [INF] 6.09.2023 01:21:12 buffer to identify
+2023-09-06 01:21:12.718 +03:00 [INF] 6.09.2023 01:21:12 Pulled information from socket up to Array.
+2023-09-06 01:21:12.718 +03:00 [INF] 6.09.2023 01:21:12 Second buffer to identify
+2023-09-06 01:21:12.719 +03:00 [INF] 6.09.2023 01:21:12 Copy function is work
+2023-09-06 01:21:12.719 +03:00 [INF] 6.09.2023 01:21:12 Convert message to string
+2023-09-06 01:21:12.720 +03:00 [INF] 6.09.2023 01:21:12 Send received message to the client
+2023-09-06 01:25:39.456 +03:00 [INF] 6.09.2023 01:25:39 System is connection database
+2023-09-06 01:25:39.475 +03:00 [INF] 6.09.2023 01:25:39 Server port number is locked.
+2023-09-06 01:25:41.254 +03:00 [INF] 6.09.2023 01:25:41 Choice has been made!
+2023-09-06 01:25:41.255 +03:00 [WRN] 6.09.2023 01:25:41 Unexpected input!
+2023-09-06 01:25:41.255 +03:00 [INF] 6.09.2023 01:25:41 User logged out of the system!
+2023-09-06 01:28:51.250 +03:00 [INF] 6.09.2023 01:28:51 System is connection database
+2023-09-06 01:28:51.267 +03:00 [INF] 6.09.2023 01:28:51 Server port number is locked.
+2023-09-06 01:28:53.021 +03:00 [INF] 6.09.2023 01:28:53 Choice has been made!
+2023-09-06 01:28:53.022 +03:00 [INF] 6.09.2023 01:28:53 Server started to work!
+2023-09-06 01:28:53.030 +03:00 [INF] 6.09.2023 01:28:53 Ip address to identify
+2023-09-06 01:28:53.038 +03:00 [INF] 6.09.2023 01:28:53 Socket to identify
+2023-09-06 01:31:06.138 +03:00 [INF] 6.09.2023 01:31:06 System is connection database
+2023-09-06 01:31:06.153 +03:00 [INF] 6.09.2023 01:31:06 Server port number is locked.
+2023-09-06 01:31:07.695 +03:00 [INF] 6.09.2023 01:31:07 Choice has been made!
+2023-09-06 01:31:07.696 +03:00 [INF] 6.09.2023 01:31:07 Client started to work!
+2023-09-06 01:31:07.698 +03:00 [INF] 6.09.2023 01:31:07 Ip address to identify
+2023-09-06 01:31:07.705 +03:00 [INF] 6.09.2023 01:31:07 Socket to identify
+2023-09-06 01:31:07.706 +03:00 [INF] 6.09.2023 01:31:07 Connected Endpoint to Socket
+2023-09-06 01:31:07.707 +03:00 [INF] 6.09.2023 01:31:07 Ip address to identify
+2023-09-06 01:31:07.708 +03:00 [INF] 6.09.2023 01:31:07 Connected Endpoint to Socket
+2023-09-06 01:31:07.708 +03:00 [INF] 6.09.2023 01:31:07 Message to identify: Hi Robot! How are you?
+2023-09-06 01:31:07.709 +03:00 [INF] 6.09.2023 01:31:07 Convert message to byte
+2023-09-06 01:31:07.710 +03:00 [INF] 6.09.2023 01:31:07 Byte message send from socket
+2023-09-06 01:31:07.710 +03:00 [INF] 6.09.2023 01:31:07 buffer to identify
+2023-09-06 01:31:07.711 +03:00 [INF] 6.09.2023 01:31:07 Pulled information from socket up to Array.
+2023-09-06 01:31:07.712 +03:00 [INF] 6.09.2023 01:31:07 Second buffer to identify
+2023-09-06 01:31:07.712 +03:00 [INF] 6.09.2023 01:31:07 Copy function is work
+2023-09-06 01:31:07.713 +03:00 [INF] 6.09.2023 01:31:07 Convert message to string
+2023-09-06 01:31:07.714 +03:00 [INF] 6.09.2023 01:31:07 Display received message
+2023-09-06 01:34:02.686 +03:00 [INF] 6.09.2023 01:34:02 User logged out of the system!

@@ -1,0 +1,20 @@
+2023-09-06 01:20:19.192 +03:00 [INF] 6.09.2023 01:20:19 System is connection database
+2023-09-06 01:20:19.203 +03:00 [INF] 6.09.2023 01:20:19 Server port number is locked.
+2023-09-06 01:25:25.694 +03:00 [INF] 6.09.2023 01:25:25 System is connection database
+2023-09-06 01:25:25.704 +03:00 [INF] 6.09.2023 01:25:25 Server port number is locked.
+2023-09-06 01:30:38.097 +03:00 [INF] 6.09.2023 01:30:38 System is connection database
+2023-09-06 01:30:38.109 +03:00 [INF] 6.09.2023 01:30:38 Server port number is locked.
+2023-09-06 01:30:52.392 +03:00 [INF] 6.09.2023 01:30:52 Choice has been made!
+2023-09-06 01:30:52.393 +03:00 [INF] 6.09.2023 01:30:52 Server started to work!
+2023-09-06 01:30:52.396 +03:00 [INF] 6.09.2023 01:30:52 Ip address to identify
+2023-09-06 01:30:52.402 +03:00 [INF] 6.09.2023 01:30:52 Socket to identify
+2023-09-06 01:30:52.403 +03:00 [INF] 6.09.2023 01:30:52 Connected Endpoint to Socket
+2023-09-06 01:30:52.404 +03:00 [INF] 6.09.2023 01:30:52 Listen to port number
+2023-09-06 01:31:07.708 +03:00 [INF] 6.09.2023 01:31:07 Accepted message coming from Client
+2023-09-06 01:31:07.709 +03:00 [INF] 6.09.2023 01:31:07 buffer to identify
+2023-09-06 01:31:07.710 +03:00 [INF] 6.09.2023 01:31:07 Pulled information from socket up to Array.
+2023-09-06 01:31:07.710 +03:00 [INF] 6.09.2023 01:31:07 Second buffer to identify
+2023-09-06 01:31:07.711 +03:00 [INF] 6.09.2023 01:31:07 Copy function is work
+2023-09-06 01:31:07.711 +03:00 [INF] 6.09.2023 01:31:07 Convert message to string
+2023-09-06 01:31:07.711 +03:00 [INF] 6.09.2023 01:31:07 Send received message to the client
+2023-09-06 01:31:14.585 +03:00 [INF] 6.09.2023 01:31:14 User logged out of the system!
